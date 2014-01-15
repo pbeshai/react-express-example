@@ -1,0 +1,29 @@
+{
+  "name": "react-express-example",
+  "version": "0.1.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pbeshai/react-express-example"
+  },
+  "keywords": [],
+  "author": "Peter Beshai <peter.beshai@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pbeshai/react-express-example/issues"
+  },
+  "dependencies": {
+    "express": "~3.4.3",
+    "winston": "~0.7.2",
+    "react": "~0.8.0",
+    "ejs": "~0.8.5"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-react": "~0.6.0",
+    "browserify": "~3.20.0",
+    "grunt-browserify": "~1.3.0",
+    "node-jsx": "~0.2.0",
+    "grunt-contrib-jshint": "~0.8.0"
+  }
+}
