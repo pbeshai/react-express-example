@@ -17,7 +17,7 @@ app.set('views', __dirname);
 app.set('view engine', 'ejs');
 
 // routing and static files
-require('app/routes').init(app);
+require('./routes').init(app);
 app.use(app.router);
 app.use(express.static(path.join(__dirname, 'public')));
 
