@@ -1,4 +1,4 @@
-var React = require('React');
+var React = require('react');
 var HomePage = require('./pages/home').HomePage;
 
 // helper function for rendering a view with React

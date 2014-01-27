@@ -1,5 +1,5 @@
 /** @jsx React.DOM */
-var React = require('React');
+var React = require('react');
 
 /**
 A simple component that doubles in size on click

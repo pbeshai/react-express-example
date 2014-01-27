@@ -1,5 +1,5 @@
 /** @jsx React.DOM */
-var React = require('React');
+var React = require('react');
 var Square = require('../elements/square').Square;
 
 // A very simple page with a square on it.
